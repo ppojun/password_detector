@@ -1,4 +1,3 @@
-//2016118035 황규민
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
